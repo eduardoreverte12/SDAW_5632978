@@ -1,0 +1,14 @@
+{
+  "name": "sdaw_2978",
+  "version": "1.0.0",
+  "description": "Proyecto SDAW_5632978 - Uso de repositorios digitales (Git)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Eduardo_5632978",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
